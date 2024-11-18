@@ -7,7 +7,9 @@
  
  - **Technologies**: Node.js, Python, PostgreSQL, MongoDB, Docker, TypeScript.<br><br>
  
- #### 💼 Professional Experience<br>Here are some highlights from my experience:<br><br>- **Monitoring Expert** at Part Software Group<br>  
+ #### 💼 Professional Experience<br>Here are some highlights from my experience:<br><br>
+ 
+ - **Monitoring Expert** at Part Software Group<br>  
  
  - Managed network and machine monitoring systems, created dashboards in **Grafana**, and worked with **InfluxDB** and **PostgreSQL**.<br>  <br>
  
