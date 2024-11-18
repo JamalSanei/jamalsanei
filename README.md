@@ -18,11 +18,21 @@
  - **Backend Developer** at **Arman Tosee (Asia Tech)**<br>
  - Developed and maintained a **CRM system** with **NestJS**, **PostgreSQL**, **MongoDB**, **Redis**, and **RabbitMQ**.<br><br>
  
- #### 🛠️ Skills<br>- **Backend Technologies**: Node.js (NestJS), Python, MongoDB, PostgreSQL, TypeORM, Sequelize, Express.js<br>- **Tools & Frameworks**: Docker, Git, Redis, RabbitMQ, Grafana<br>- **Languages**: JavaScript (Excellent), TypeScript (Very Good), Python (Very Good)<br>- **Additional Skills**: Product Management, Responsive Web Design, E-Commerce Solutions<br><br>
+ #### 🛠️ Skills<br>
+ - **Backend Technologies**: Node.js (NestJS), Python, MongoDB, PostgreSQL, TypeORM, Sequelize, Express.js<br>
+ - **Tools & Frameworks**: Docker, Git, Redis, RabbitMQ, Grafana<br>
+ - **Languages**: JavaScript (Excellent), TypeScript (Very Good), Python (Very Good)<br>
+ - **Additional Skills**: Product Management, Responsive Web Design, E-Commerce Solutions<br><br>
  
- #### 🎓 Education & Certifications<br>- **Bachelor of Computer Engineering**, Islamic Azad University of Mashhad<br>- **Comprehensive Data Science Course**, University of Tehran<br>- **Advanced Python Programming**, Maktabkhooneh<br>- **JavaScript & Responsive Web Design**, FreeCodeCamp/SoloLearn<br><br>
+ #### 🎓 Education & Certifications<br>
+ - **Bachelor of Computer Engineering**, Islamic Azad University of Mashhad<br>
+ - **Comprehensive Data Science Course**, University of Tehran<br>
+ - **Advanced Python Programming**, Maktabkhooneh<br>
+ - **JavaScript & Responsive Web Design**, FreeCodeCamp/SoloLearn<br><br>
  
- #### 📫 Let's Connect!<br>- **Email**: [jamal.sanei@gmail.com](mailto:jamal.sanei@gmail.com)<br>- **LinkedIn**: [linkedin.com/in/jamal-sanei-bb71271a7](https://www.linkedin.com/in/jamal-sanei-bb71271a7)<br><br>Feel free to reach out to me if you’d like to collaborate or have any questions! 😊<br>
+ #### 📫 Let's Connect!<br>
+ - **Email**: [jamal.sanei@gmail.com](mailto:jamal.sanei@gmail.com)<br>
+ - **LinkedIn**: [linkedin.com/in/jamal-sanei-bb71271a7](https://www.linkedin.com/in/jamal-sanei-bb71271a7)<br><br>Feel free to reach out to me if you’d like to collaborate or have any questions! 😊<br>
 
 
 ##### 🌐 Socials:
