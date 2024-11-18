@@ -1,5 +1,5 @@
 # 💫 About Me:
- ## Hi there, I'm **Jamal Sanei** 👋<br><br>I'm a passionate **Mid-Level Backend Developer** with a strong drive to solve complex problems and continuously improve my skills. I specialize in building scalable and efficient backend systems, and I'm working towards a future role as a **Machine Learning Engineer** by combining my expertise in backend development with data science and machine learning.<br><br>
+  Hi there, I'm **Jamal Sanei** 👋<br><br>I'm a passionate **Mid-Level Backend Developer** with a strong drive to solve complex problems and continuously improve my skills. I specialize in building scalable and efficient backend systems, and I'm working towards a future role as a **Machine Learning Engineer** by combining my expertise in backend development with data science and machine learning.<br><br>
  
  ## 🔍 Current Focus<br>- **Backend Development**: Building high-performance backend services.<br>- **Data Science & Machine Learning**: Expanding knowledge in data science to transition into a machine learning engineer role.<br>- **Technologies**: Node.js, Python, PostgreSQL, MongoDB, Docker, TypeScript.<br><br>
  
